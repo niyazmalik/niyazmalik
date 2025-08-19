@@ -1,40 +1,52 @@
-# Hi, I'm Niyaz - A Backend Developer learning since 9 April 2025
+# Niyaz Malik - A Backend Developer learning since **April 9, 2025**
 
-# Journey in a Nutshell
-
-## Early School Years
-
-- School: Delhi Public School International, Muzaffarpur, Bihar
-  - 8th Grade: 96.28%
-  - 9th Grade: 89%
-  - 10th Grade: 74%
-  - Lost interest in studies on my own during this period
-
-## PUBG Addiction Period
-
-- 11th grade to 2nd year of college: Highly addicted to PUBG (10-15 hours daily)
-- 12th Grade: Failed due to addiction
-- Parents invested around 5 lakhs in IIT preparation at FIITJEE, but I did not appear in the exam knowing the 12th result outcome
-
-## College Years
-
-- College: BS Anangpuria Institute of Technology and Management, Faridabad
-  - A tier-3 college; no other option due to low 12th marks (76%) and previous parental investment
-  - First one and a half years: still heavily into PUBG
-  - Discovered interest in coding in the mid-second year, very late
-  - Learned C, then C++, DSA, and later competitive programming
-
-## Dropping College in 3rd Year
-
-- Lunch time, April 9, 2025:
-  - Argument with a faculty member and principal; decision went in the faculty’s favor despite me being correct, hurting my ego
-  - Dropped out then and there and started learning backend development independently
-  - Put a halt on CP and DSA for now
-
-## Reason?
-
-- Long story
+---
 
 ## Skills
-- Started with - NodeJS, ExpressJS, and MongoDB
-- Currently with - TypeScript, PostgreSQL, and NestJS
+
+**Started with**  
+- NodeJS, ExpressJS, MongoDB  
+
+**Currently focusing on**  
+- TypeScript, PostgreSQL, NestJS  
+
+---
+
+## Timeline
+
+**2015 – 2018**  
+- Delhi Public School International, Muzaffarpur, Bihar  
+- Class 8th: 96.28%  
+- Class 9th: 89%  
+- Class 10th: 74%  
+- Lost interest in studies during this period  
+
+**2018 – 2020**  
+- Class 11th–12th: Highly addicted to PUBG (10–15 hours daily)  
+- Failed on the very last Maths paper of 12th on **17/03/2020**  
+
+**2021**  
+- Wasted another year playing PUBG  
+- Cleared 12th in the second attempt (scored 76%)  
+
+**2022 – 2026 (expected)**  
+- Joined **BS Anangpuria Institute of Technology and Management, Faridabad** (tier-3 college, B.Tech CSE)  
+- No other option due to poor marks and money already spent by parents  
+- Still addicted to PUBG, wasted the entire first year and half of the second year
+
+**Mid-2023 – 2024**  
+- Got introduced to coding  
+- Learned **C++**, then started with **DSA**  
+- Developed interest in **Competitive Programming (CP)**  
+
+**2025 (3rd Year)**  
+- **April 9, 2025 (lunch time):**  
+  - Had recurring arguments with both faculty and the principal throughout college  
+  - This time, I genuinely wanted a fair solution to the issue, but the decision still went in the faculty’s favor  
+  - Felt unheard and disrespected → hurt my ego  
+  - Dropped out of college immediately, lunch time 
+- Put CP/DSA on hold and shifted full focus to **Backend Development**
+  
+---
+
+**Transition:** From *Wazid* to *Niyaz* — a new name for a new beginning.
