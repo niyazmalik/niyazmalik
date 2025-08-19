@@ -5,10 +5,10 @@
 ## Skills
 
 **Started with**  
-- NodeJS, ExpressJS, MongoDB  
+- NodeJS | ExpressJS | Javascript | MongoDB  
 
 **Currently focusing on**  
-- TypeScript, PostgreSQL, NestJS  
+- NestJS | TypeScript | PostgreSQL 
 
 ---
 
