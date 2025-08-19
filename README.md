@@ -49,4 +49,6 @@
   
 ---
 
-**Transition:** From *Wazid* to *Niyaz* — a new name for a new beginning.
+> **Transition**  
+> From **Wazid** ➝ **Niyaz**  
+> *A new name for a new beginning.*
