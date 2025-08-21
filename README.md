@@ -44,7 +44,7 @@
   - Had recurring arguments with both faculty and the principal throughout college  
   - This time, I genuinely wanted a fair solution to the issue, but the decision still went in the faculty’s favor  
   - Felt unheard and disrespected → hurt my ego  
-  - Dropped out of college immediately, lunch time 
+  - Dropped out of college immediately. 
 - Put CP/DSA on hold and shifted full focus to **Backend Development**
   
 ---
