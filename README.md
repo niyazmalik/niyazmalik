@@ -22,16 +22,17 @@
 - Lost interest in studies during this period  
 
 **2018 – 2020**  
-- Got admission into FIITJEE institute for IIT preparation, Parents spent over 4 lakhs for the fees but...
+- Got admission into FIITJEE institute for IIT preparation,
 - Class 11th–12th: Highly addicted to PUBG (10–15 hours daily)  
-- Failed on the very last Maths paper of class 12th on **17/03/2020**...and didn't even appear for IIT exam...  
+- Failed on the very last Maths paper of class 12th on **17/03/2020**
+- Parents spent over 4 lakhs as the fees but I didn't even appear for the IIT exam
 
 **2021**  
 - Wasted another year playing PUBG  
 - Cleared 12th in the second attempt (scored 76%)  
 
 **2022 – 2026 (expected)**  
-- Joined **BS Anangpuria Institute of Technology and Management, Faridabad** (tier-3 college, B.Tech CSE)  
+- Joined **BS Anangpuria Institute of Technology and Management, Faridabad** (Tier-99 college, B.Tech CSE)  
 - No other option due to poor marks and money already spent by parents  
 - Still addicted to PUBG, wasted the entire first year and half of the second year
 
