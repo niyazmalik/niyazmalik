@@ -25,7 +25,7 @@
 - Got admission into FIITJEE institute for IIT preparation,
 - Class 11th–12th: Highly addicted to PUBG (10–15 hours daily)  
 - Failed on the very last Maths paper of class 12th on **17/03/2020**
-- Parents spent over 4 lakhs as the fees but I didn't even appear for the IIT exam
+- Parents spent over 4 lakhs for the fees but I didn't even appear for the IIT exam
 
 **2021**  
 - Wasted another year playing PUBG  
