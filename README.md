@@ -22,6 +22,7 @@
 - Lost interest in studies during this period  
 
 **2018 – 2020**  
+- Got admission into FIITJEE institute for IIT preparation, Parents spent over 4 lakhs for the fees but...
 - Class 11th–12th: Highly addicted to PUBG (10–15 hours daily)  
 - Failed on the very last Maths paper of 12th on **17/03/2020**  
 
