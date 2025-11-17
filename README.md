@@ -13,3 +13,5 @@ And some busy killing others in the name of God.
 God is one, without any second, the Creator of the universe that we see and of all that lies beyond our sight. He is the One who gave us the gift of knowledge and made death the only certain truth and to him is our final return.
 
 [As I revisit the past, I understand why I remained a lone soul, the people around me cared more for coins than conscience.](https://drive.google.com/drive/folders/1ozhYduSiVD18yEUKodWeSAbet47dH1Zw?usp=sharing)
+
+---
