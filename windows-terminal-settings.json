@@ -1,0 +1,86 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": [],
+    "alwaysOnTop": false,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{1af1ef30-83eb-5a4b-b090-c7094e31cb97}",
+    "initialCols": 100,
+    "initialPosition": "50,50",
+    "initialRows": 37,
+    "keybindings":
+    [
+        {
+            "id": "Terminal.CopyToClipboard",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "Terminal.OpenSettingsUI",
+            "keys": "alt+s"
+        },
+        {
+            "id": "Terminal.PasteFromClipboard",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.OpenNewTab",
+            "keys": "alt+n"
+        },
+        {
+            "id": "Terminal.OpenSettingsFile",
+            "keys": "alt+o"
+        },
+        {
+            "id": "Terminal.SwitchToTab1",
+            "keys": "alt+2"
+        },
+        {
+            "id": "Terminal.SwitchToTab0",
+            "keys": "alt+1"
+        },
+        {
+            "id": "Terminal.ClosePane",
+            "keys": "alt+c"
+        }
+    ],
+    "launchMode": "focus",
+    "profiles":
+    {
+        "defaults":
+        {
+            "colorScheme": "Tango Dark",
+            "cursorColor": "#F3DCFF",
+            "cursorShape": "filledBox",
+            "font":
+            {
+                "cellHeight": "1.5",
+                "face": "Fira Code",
+                "size": 9.1,
+                "weight": "semi-bold"
+            },
+            "opacity": 100,
+            "scrollbarState": "hidden",
+            "startingDirectory": "%USERPROFILE%\\Desktop",
+            "useAcrylic": true
+        },
+        "list":
+        [
+            {
+                "guid": "{1af1ef30-83eb-5a4b-b090-c7094e31cb97}",
+                "hidden": false,
+                "name": "Ubuntu",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+                "hidden": false,
+                "name": "Git Bash",
+                "source": "Git"
+            }
+        ]
+    },
+    "theme": "system",
+    "useAcrylicInTabRow": true,
+    "windowingBehavior": "useNew"
+}
