@@ -57,6 +57,22 @@ require("lazy").setup({
                         n = { ["q"] = actions.close },
                     },
                 },
+                pickers = {
+                    find_files = {
+                        hidden = true, -- Show hidden files like .env
+                        -- fd (faster) or find to exclude folders at scan time
+                        find_command = { 
+                            "rg", 
+                            "--files", 
+                            "--hidden", 
+                            "--glob", "!**/.git/*",
+                            "--glob", "!**/node_modules/*",
+                            "--glob", "!**/dist/*",
+                            "--glob", "!**/.next/*",
+                            "--glob", "!**/build/*",
+                        },
+                    },
+                },
             })
 
             vim.keymap.set("n", "<leader>ff", builtin.find_files)
