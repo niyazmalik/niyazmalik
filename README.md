@@ -1,4 +1,5 @@
-
+## Linux (Ubuntu/Debian)
+```bash
 # Update package list
 sudo apt update
 
@@ -25,6 +26,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
 # Install Node.js
-nvm install 18 (or any version)
-nvm use 18
-nvm alias default 18
+nvm install 20 (or any version)
+nvm use 20
+nvm alias default 20
+```
