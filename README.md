@@ -1,1 +1,1 @@
-### Someone they barely know at all?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Niyaz+Malik.;Someone+they+barely+know+at+all.)](https://git.io/typing-svg)
