@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=No+terrorism%2C+no+oppression%2C+no+tyranny+ever+has+the+last+word.;Free+Palestine%2C+Sudan%2C+North+Korea+%26+the+Uyghurs;...and+many+more+who+are+suffering)](https://git.io/typing-svg)
